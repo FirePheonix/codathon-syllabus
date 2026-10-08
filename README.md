@@ -24,3 +24,5 @@ Doubts and queries? Make an issue with your github in this repository. We'll rep
 Don't ask silly things like approach for this ques - discuss that amongst your batchmates, or maybe use ai tools (nah but don't use ai tools for spamming leetcode). Be time efficient. 
 
 ## Second and Third years.
+
+Previous OAs like - GRID, Infosys, ICPC (not the tougher and mathematical ones), Amazon, etc.
